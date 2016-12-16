@@ -1,2 +1,5 @@
 echo "this is dumb af"
-
+echo "this is so damn fun"
+echo "i don't even know whyat i am doing now"
+echo " my dog just pooped. Oh shit!"
+echo "damn that was funny"
